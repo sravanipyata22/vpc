@@ -1,0 +1,3 @@
+variable cidrvpc {
+  type = string
+}
